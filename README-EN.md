@@ -11,3 +11,7 @@ Mine-imator Vexel Build: [**YT:@VexelStudios**](https://youtube.com/@vexelstudio
 Mine-imator Vexel Build Web: https://vexelmineimator.com/
 
 Github Repo Mine-imator Vexel Build All Version: @S4ad0wKhab
+# ⚠️Note/Update
+## Note
+If you have version 1.2.0–1.2.8, or any version other than the "Supporter beta," you can contact us via [**Github Issues**](https://github.com/S4ad0wKhab/Mine-imator-Vexel-Build-All-Version/issues) 🙏🏻
+## Update
