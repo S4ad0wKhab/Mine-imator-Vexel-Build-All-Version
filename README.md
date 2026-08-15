@@ -15,7 +15,7 @@ Github Repo Mine-imator Vexel Build All Version: @S4ad0wKhab
 
 # ⚠️หมายเหตุ/อัพเดท
 ## หมายเหตุ
-หากคุณมีไฟล์เวอร์ชั่น 1.2.0-1.2.8 หรือเวอร์ชั่นอื่นๆที่ไม่ใช่ "Supporter beta" สามารถติดต่อได้ที่ (**Github Issues**)[https://github.com/S4ad0wKhab/Mine-imator-Vexel-Build-All-Version/issues] 🙏🏻
+หากคุณมีไฟล์เวอร์ชั่น 1.2.0-1.2.8 หรือเวอร์ชั่นอื่นๆที่ไม่ใช่ "Supporter beta" สามารถติดต่อได้ที่ [**Github Issues**](https://github.com/S4ad0wKhab/Mine-imator-Vexel-Build-All-Version/issues) 🙏🏻
 ## อัพเดท
 **Upload Version 1.2.9 (15/08/2026)** ✅️
 
